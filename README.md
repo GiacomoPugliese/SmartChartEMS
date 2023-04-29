@@ -1,4 +1,3 @@
-#SmartChartEMS
 
 Live at: https://smartchart.streamlit.app/ 
 
